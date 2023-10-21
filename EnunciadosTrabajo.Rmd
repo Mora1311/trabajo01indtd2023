@@ -1,0 +1,26 @@
+---
+title: "Enunciados trabajo"
+author: "Carmen Mora"
+date: "2023-10-21"
+output: pdf_document
+---
+**Primer problema**
+Aplicar los criterios de decisión bajo incertidumbre a una matriz de datos 
+generados aleatoriamente, considerandolos primero beneficios y luego costos:
+
+
+**Segundo problema**
+Un fabricante de cojines estudia lanzar un nuevo modelo al mercado, debatiendose entre
+cuatro estampados distintos. Los estampados candidatos son: lisos, con plantas, 
+con frases y con figuras geometricas. Los beneficios esperados (expresados 
+en millones de euros) en el año siguiente al lanzamiento en función del tipo de 
+interés al consumo son:
+             E1    E2    E3    E4
+Lisos        30    26    13    19
+Plantas      25    17    10    28
+Frases       22    25    21    16
+Fig. Geom.   24    18    23    27
+¿Cuál sería la opción que recomendaría a la empresa?
+
+
+
