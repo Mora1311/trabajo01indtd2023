@@ -4,7 +4,7 @@ author: "Carmen Mora"
 date: "2023-10-21"
 output: pdf_document
 ---
-**Primer problema**
+**Primer problema** 
 Aplicar los criterios de decisión bajo incertidumbre a una matriz de datos 
 generados aleatoriamente, considerandolos primero beneficios y luego costos:
 
